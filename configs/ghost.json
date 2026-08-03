@@ -1,0 +1,2036 @@
+{
+  "ADHD": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Video": "SubwaySurfers",
+      "Position": "Bottom Right",
+      "Width": 100.0,
+      "Height": 170.0,
+      "Padding": 10.0
+    }
+  },
+  "AFKGui": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "AFKHandler": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Frame limit": 20.0
+    }
+  },
+  "AimAssist": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Search range": 8.0,
+      "Only on LMB": true,
+      "Angle limiter": "Linear",
+      "Yaw speed": 180.0,
+      "Pitch speed": 180.0,
+      "Max delta history size": 4.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      }
+    }
+  },
+  "Animations": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Modify swing speed": false,
+      "Swing speed": 5.0,
+      "Don\u0027t override swing reset time": true,
+      "Block on swing": false,
+      "Old": true,
+      "Not While Blocking": false,
+      "Digging only": true,
+      "No equip reset": true,
+      "Block animation": "Exhibition",
+      "Translated X": 0.0,
+      "Translated Y": 0.0,
+      "Translated Z": 0.0
+    }
+  },
+  "Annoy": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Target": "rdakahs",
+      "Target pos mode": "On player",
+      "Range": 2.0,
+      "Render path": true
+    }
+  },
+  "AntiBot": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Options": "Tab"
+    }
+  },
+  "AntiCheat": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Checks": "Motion C, Invalid swing, NoSlow A, NoSlow B, AutoClicker A, AutoClicker B, FakeLag",
+      "Alert Cooldown": 2000.0,
+      "Alert in chat": true
+    }
+  },
+  "AntiFlag": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "AntiVoid": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Collide",
+      "Min fall distance": 3.0
+    }
+  },
+  "Atmosphere": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Time Editor": true,
+      "Time": 17000.0,
+      "Weather Editor": false,
+      "Weather": "Clean",
+      "World Color": false,
+      "World Color RGB": {
+        "RGB": -5197648,
+        "Alpha": 1.0
+      },
+      "World Fog": false,
+      "World Fog RGB": {
+        "RGB": -1,
+        "Alpha": 1.0
+      },
+      "No Night Vision Sky": false
+    }
+  },
+  "AutoAccount": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Password": "FoxesAreCute",
+      "Delay": 1.0
+    }
+  },
+  "AutoBan": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "LiquidBounce"
+    }
+  },
+  "AutoClicker": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Ignore item use": false,
+      "Double click": false,
+      "Max click amount": 6.0,
+      "CPS ": 15.0,
+      "Perlin rand add": 0.7,
+      "Max skips in a row": 2.0,
+      "Consistency": 0.7,
+      "Max concentration diff": 10.0,
+      "Respect hit delay": true,
+      "Max delay": 2.0
+    }
+  },
+  "AutoHeal": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Head": false,
+      "Head health": 15.0,
+      "Soup": true,
+      "Soup health": 15.0,
+      "Consume delay": {
+        "Start": 1.0,
+        "End": 2.0
+      },
+      "Drop delay": {
+        "Start": 1.0,
+        "End": 2.0
+      },
+      "Switch back delay": {
+        "Start": 1.0,
+        "End": 2.0
+      },
+      "Refill": true,
+      "Open delay": 3.0,
+      "Refill delay": 0.0
+    }
+  },
+  "AutoMeow": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Delay": {
+        "Start": 0.0,
+        "End": 0.0
+      },
+      "Length": {
+        "Start": 1.0,
+        "End": 50.0
+      }
+    }
+  },
+  "AutoProjectile": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Range": {
+        "Start": 3.0,
+        "End": 4.5
+      },
+      "Use delay on switch": 2.0,
+      "Max wait delay": 20.0,
+      "Max rethrow delay": 20.0,
+      "Switchback delay": 2.0,
+      "Fov": 90.0,
+      "Rotate": true,
+      "Base prediction": 1.0,
+      "Silent": true,
+      "Angle limiter": "Linear",
+      "Yaw speed": 180.0,
+      "Pitch speed": 180.0,
+      "Max delta history size": 20.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "Silent",
+      "No S": false,
+      "Only on kill aura": false,
+      "Override kill aura rots": false
+    }
+  },
+  "AutoQueue": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Mineblaze duels"
+    }
+  },
+  "AutoRod": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Range": {
+        "Start": 1.0,
+        "End": 6.0
+      },
+      "Use delay on switch": 2.0,
+      "Max wait delay": 2.0,
+      "Max recast delay": 10.0,
+      "Switchback delay": 2.0,
+      "Fov": 90.0,
+      "Rotate": true,
+      "Base prediction": 1.0,
+      "Silent": true,
+      "Angle limiter": "Accelerated",
+      "Yaw speed": 32.0,
+      "Pitch speed": 16.0,
+      "Max delta history size": 4.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "Silent",
+      "No S": false,
+      "Only on kill aura": false,
+      "Override kill aura rots": true
+    }
+  },
+  "AutoTool": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Spoof": true,
+      "Switch back": true,
+      "Not on item use": true
+    }
+  },
+  "AutoWalk": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Target player": false,
+      "Rotate": true,
+      "Silent": false,
+      "Angle limiter": "Linear",
+      "Yaw speed": 180.0,
+      "Pitch speed": 180.0,
+      "Max delta history size": 20.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "None",
+      "No S": false,
+      "Min range": 1.0
+    }
+  },
+  "AutoWeapon": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Switch Back": true
+    }
+  },
+  "BackTrack": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Only when needed": true,
+      "Attack range": 3.0,
+      "Range": {
+        "Start": 1.0,
+        "End": 8.0
+      },
+      "Range base": "HurtTime",
+      "Attack tick fix": false,
+      "Prediction ticks": 0.0,
+      "HurtTime to work": 2.0,
+      "Extra check": true,
+      "Delay ms": 100.0,
+      "Extra ms": false,
+      "Extra rand": 10.0,
+      "Delay for next lag": 0.0,
+      "Mode": "FakePlayer",
+      "Color": {
+        "RGB": -4079167,
+        "Alpha": 0.29803923
+      }
+    }
+  },
+  "Balance": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "BalanceFix": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "BedBreaker": {
+    "State": false,
+    "Key": 49,
+    "Hidden": false,
+    "Values": {
+      "Break surrounding": true,
+      "Instant break": false,
+      "Silent": true,
+      "Angle limiter": "Linear",
+      "Yaw speed": 180.0,
+      "Pitch speed": 180.0,
+      "Max delta history size": 0.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "Silent",
+      "No S": false
+    }
+  },
+  "BedWalker": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Blink": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Direction": "Outgoing",
+      "Show Prev Pos": true
+    }
+  },
+  "BlockHit": {
+    "State": false,
+    "Key": 20,
+    "Hidden": false,
+    "Values": {
+      "Block range": 2.5,
+      "On click pattern skip": false,
+      "Further skip": false,
+      "Switch block": false
+    }
+  },
+  "BlockOverlay": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Outline": false,
+      "Filled": true,
+      "Sync Color": false,
+      "Color": {
+        "RGB": -16777216,
+        "Alpha": 0.24705882
+      },
+      "Interpolate": true,
+      "Interpolation Amount": 0.2
+    }
+  },
+  "BowAimbot": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Fov": 180.0,
+      "Predict size": 5.0,
+      "Silent": false,
+      "Angle limiter": "None",
+      "Yaw speed": 90.0,
+      "Pitch speed": 90.0,
+      "Max delta history size": 20.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "Silent",
+      "No S": false,
+      "Auto release": false
+    }
+  },
+  "Breadcrumbs": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Line",
+      "Time": 10.0,
+      "Prediction line": false,
+      "Prediction ticks": 1.0
+    }
+  },
+  "BreakProgress": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Cape": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Cape mode": "Other",
+      "Rise cape mode": "Dogshit",
+      "Raven cape mode": "White",
+      "Minecraft cape mode": "Birthday",
+      "Other mode": "Karuizawa",
+      "Modern cape physics": true,
+      "Cape tint": false,
+      "Tint color": {
+        "RGB": -1,
+        "Alpha": 1.0
+      }
+    }
+  },
+  "ChatBypass": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "ChestESP": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Bloom",
+      "Outline": true,
+      "Filled": false,
+      "Sync Color": false,
+      "Color": {
+        "RGB": -16777216,
+        "Alpha": 1.0
+      },
+      "Don\u0027t render opened": true
+    }
+  },
+  "ChinaHat": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Quality": "Umbrella",
+      "Show in First Person": false,
+      "Rotate": true
+    }
+  },
+  "ClickGUI": {
+    "State": false,
+    "Key": 54,
+    "Hidden": false,
+    "Values": {}
+  },
+  "ClickTP": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Pearl",
+      "Shift": true
+    }
+  },
+  "ClientSpoofer": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Custom",
+      "Custom name": "niggerclient"
+    }
+  },
+  "CombatHelper": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Public search range": 3.0,
+      "Combo breaker": false,
+      "Breaker attack range": 3.0,
+      "Keep combo": false,
+      "Keep combo attack range": 2.4,
+      "Adaptive strafe": true,
+      "Force strafe": true,
+      "Target strafe distance": 2.5,
+      "Max strafe distance": 15.0,
+      "Target Prediction Ticks": 5.0,
+      "Lag check": false
+    }
+  },
+  "ComboOneHit": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Packets": 50.0
+    }
+  },
+  "Crasher": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Swing packet",
+      "Packets": 20.0,
+      "Execute": false,
+      "Execute timeout": 1000.0,
+      "Execute once": false
+    }
+  },
+  "Criticals": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Offset",
+      "Static offset": false,
+      "Stop XZ on hit": true,
+      "Tick delay": 0.0
+    }
+  },
+  "Crosshair": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "CustomCamera": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Distance": 5.0,
+      "Current pos bias": 0.95
+    }
+  },
+  "CustomSkin": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Slim": true,
+      "Custom URL": false,
+      "Skin": "Karuizawa",
+      "URL": "https://www.minecraftskins.com/uploads/skins/2023/11/20/itsuki-nakano-22126544.png?v961"
+    }
+  },
+  "CustomWidgets": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Hotbar": true,
+      "Hotbar mode": "Augustus",
+      "Scoreboard": true,
+      "Chat": true,
+      "Inventory": true,
+      "Tab overlay": true,
+      "World fade": true
+    }
+  },
+  "Debug": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Click handler": false,
+      "Simulated reaction time": true,
+      "Attack range": false,
+      "Target vec": false,
+      "BHV": false,
+      "Hitbox points": true,
+      "Aim data": false,
+      "Click data": false
+    }
+  },
+  "Disabler": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Options": "Balance, Saved balance",
+      "Sprint": true,
+      "Reach": false,
+      "Auto clicker": false
+    }
+  },
+  "Dummy": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "ESP": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "No Self": true,
+      "No Dead": true,
+      "Tags": true,
+      "Tags Size": 0.5,
+      "Tags Health": true,
+      "Tags Background": true,
+      "Item": true,
+      "2D ESP": true,
+      "Box": true,
+      "Box Mode": "Outline",
+      "Box Sync Color": false,
+      "Box Color": {
+        "RGB": -65536,
+        "Alpha": 1.0
+      },
+      "Health Bar": true,
+      "Health Bar Sync Color": false,
+      "Absorption Color": {
+        "RGB": -206,
+        "Alpha": 1.0
+      },
+      "Armor Bar": true,
+      "Armor Bar Color": {
+        "RGB": -13434881,
+        "Alpha": 1.0
+      }
+    }
+  },
+  "ExplosionBlock": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "TNT": true,
+      "TNT Range": 4.0,
+      "TNT Fuse": 5.0,
+      "Creeper": true,
+      "Creeper Range": 4.0,
+      "Creeper Fuse": 5.0,
+      "Spoof": false
+    }
+  },
+  "FakeLag": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Always spoof": true,
+      "Search range": 15.0,
+      "Re-lag time": {
+        "Start": 211.0,
+        "End": 248.0
+      },
+      "Delay ms": 80.0,
+      "Delay in combat": 100.0,
+      "Extra rand": 0.0,
+      "HurtTime to stop": 10.0,
+      "Prediction ticks": 2.0,
+      "Max server CPS": 100.0,
+      "Projectile dodge": true,
+      "Display real pos": true,
+      "Render mode": "FakePlayer",
+      "Color": {
+        "RGB": -16777216,
+        "Alpha": 0.39215687
+      },
+      "Only on KillAura": false,
+      "Keep range": false,
+      "Keep range delay": 200.0
+    }
+  },
+  "FastBow": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Speed": 35.0,
+      "Trigger": true
+    }
+  },
+  "FastBreak": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Legit": true,
+      "Speed": 0.1
+    }
+  },
+  "FastFPS": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Update time": 250.0
+    }
+  },
+  "FastPlace": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Right click delay": 1.0,
+      "Only on xz plane": false,
+      "Ignore tick cycle": false,
+      "Frame delay": 0.0,
+      "Swing": true
+    }
+  },
+  "FastStop": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Input",
+      "Keep ticks": 1.0
+    }
+  },
+  "FastUse": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Packets": 5.0,
+      "Every": 10.0
+    }
+  },
+  "FlagDetector": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Fly": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Vanilla",
+      "Motion": 0.21,
+      "Speed": 1.4,
+      "Auto jump": false,
+      "Balance": 25.0,
+      "Vanilla kick bypass": false
+    }
+  },
+  "ForceDinnerbone": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "FreeCam": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Fly": false,
+      "No clip": false
+    }
+  },
+  "FreeLook": {
+    "State": false,
+    "Key": 56,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Freeze": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "FullBright": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Gamma"
+    }
+  },
+  "GlowESP": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "GodMode": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Cancel death screen",
+      "Min health": 10.0
+    }
+  },
+  "HitBox": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Expand": 1.0
+    }
+  },
+  "HitIndicators": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "HurtCam": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Amount": 0.0
+    }
+  },
+  "IRC": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "JWT": false
+    }
+  },
+  "InfAura": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Attack delay": 2000.0,
+      "Range": 500.0
+    }
+  },
+  "InputFix": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Interface": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Elements": "Watermark, Module list, Armor, Keystrokes, Info, Target hud, Spotify",
+      "Watermark mode": "Karuizawa",
+      "Module list mode": "Adjust",
+      "Background": true,
+      "Line mode": "Outline",
+      "Hide render": true,
+      "Potion Mode": "Default",
+      "Info Mode": "Default",
+      "Target hud mode": "Rise 5",
+      "Track target": false,
+      "Interpolation": 0.5,
+      "Offset X": 100.0,
+      "Offset Y": 50.0
+    }
+  },
+  "InvMove": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Safe": true
+    }
+  },
+  "InventorySync": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Item Physics": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Rotation speed": 2.0
+    }
+  },
+  "ItemESP": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Offset Y": -10.0,
+      "Scale": {
+        "Start": 0.05,
+        "End": 1.0
+      },
+      "Tags background": true,
+      "Filter unneeded": true
+    }
+  },
+  "ItemGlow": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Colored": false
+    }
+  },
+  "Jesus": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Solid"
+    }
+  },
+  "JewESP": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "JumpDelay": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Jump delay": 0.0
+    }
+  },
+  "JumpReset": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Exit range": 3.0,
+      "Prediction ticks": 2.0,
+      "Log": false
+    }
+  },
+  "KeepSprint": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Smart",
+      "HurtTime": 1.0,
+      "Motion": 1.0,
+      "Hurt motion": 0.6
+    }
+  },
+  "KillAura": {
+    "State": false,
+    "Key": 35,
+    "Hidden": false,
+    "Values": {
+      "Attack range": 3.0,
+      "Search range": 8.0,
+      "Ignore item use": false,
+      "Click mode": "Legit",
+      "Double click": false,
+      "Max click amount": 3.0,
+      "CPS ": 15.0,
+      "Perlin rand add": 1.0,
+      "Max skips in a row": 2.0,
+      "Consistency": 0.85,
+      "Max concentration diff": 10.0,
+      "Respect hit delay": true,
+      "Max delay": 2.0,
+      "Raytrace": false,
+      "Fail swing": false,
+      "Swing range": 2.5,
+      "AutoBlock": true,
+      "AutoBlock range": 3.0,
+      "AutoBlock mode": "Fake",
+      "Reblock ticks": 0.0,
+      "Interact": false,
+      "Always render blocking": true,
+      "Silent": true,
+      "Angle limiter": "Accelerated",
+      "Yaw speed": 60.0,
+      "Pitch speed": 30.0,
+      "Max delta history size": 4.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 1.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.0,
+        "End": 0.0
+      },
+      "Movement correction": "Silent",
+      "No S": true,
+      "Hitbox quality": 1.0,
+      "Out of range buffer": 0.0,
+      "Preferred body part": "None",
+      "Blacklisted box positions": "Bad hitVec",
+      "Bad hitVec buffer": 0.6,
+      "Heuristic buffer": 0.06,
+      "Dynamic trim": true,
+      "Y trim": 0.0,
+      "XZ trim": 0.5,
+      "XZ rand add": 0.0,
+      "Prediction engine": true,
+      "Simulate reaction time": true,
+      "Reaction time": {
+        "Start": 0.0,
+        "End": 3.0
+      },
+      "Threshold to apply reaction time": 0.28,
+      "Threshold for direction confidence": 0.1,
+      "Extra reaction prediction": 0.25,
+      "Jitter": true,
+      "Jitter factor": {
+        "Start": 0.7,
+        "End": 0.7
+      },
+      "Interpolate jitter vec": false,
+      "Look vec": "Normalised",
+      "Offset mode": "None",
+      "Base": "Noise",
+      "Offset chance": 25.0,
+      "Yaw factor": {
+        "Start": 0.4,
+        "End": 0.6
+      },
+      "Pitch factor": {
+        "Start": 0.2,
+        "End": 0.3
+      },
+      "Interpolate vec": true,
+      "Amount": 0.05,
+      "Tolerance": 0.05,
+      "Target selection mode": "Single",
+      "Target Priority": "None",
+      "Target switch delay": 200.0,
+      "Target ESP": true
+    }
+  },
+  "KillInsults": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "demise",
+      "Debug": false
+    }
+  },
+  "KnockbackDisplacement": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Packet",
+      "Delay": 250.0
+    }
+  },
+  "LagCompAbuse": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Position check reach": 3.0,
+      "Max prev positions": 1.0,
+      "Max predicted positions": 1.0,
+      "Box color": {
+        "RGB": -16777216,
+        "Alpha": 0.101960786
+      }
+    }
+  },
+  "LagDetector": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "LegitScaffold": {
+    "State": true,
+    "Key": 5,
+    "Hidden": false,
+    "Values": {
+      "Sneak dist": 0.45,
+      "Un-sneak delay": {
+        "Start": 0.0,
+        "End": 5.0
+      },
+      "Sneak only": true
+    }
+  },
+  "LongJump": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Polar",
+      "JumpOff amount": 0.2,
+      "Vertical motion": 0.0,
+      "Horizontal motion": 1.49
+    }
+  },
+  "MadeByTheBi11iona1re": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Manager": {
+    "State": false,
+    "Key": 21,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Open inv",
+      "Not while moving": false,
+      "Spam": true,
+      "Re-open delay": 5.0,
+      "Start delay": 5.0,
+      "Auto armor": true,
+      "Armor delay": {
+        "Start": 2.0,
+        "End": 2.0
+      },
+      "Sort items": true,
+      "Sort delay": {
+        "Start": 2.0,
+        "End": 2.0
+      },
+      "Sword slot": 1.0,
+      "Bow slot": 3.0,
+      "Gapple slot": 2.0,
+      "Pickaxe slot": 4.0,
+      "Axe slot": 5.0,
+      "Shovel slot": 0.0,
+      "Block slot": 9.0,
+      "Drop items": true,
+      "Drop delay": {
+        "Start": 2.0,
+        "End": 2.0
+      },
+      "Ignore compass": true
+    }
+  },
+  "MentalSupport": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Karuizawa"
+    }
+  },
+  "MessageEncryptor": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "MotionBlur": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Amount": 0.5
+    }
+  },
+  "MotionModifier": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Motion multi": false,
+      "On air": true,
+      "XZ multi (air tick 1)": 1.0,
+      "XZ multi (air tick 2)": 1.0,
+      "XZ multi (air tick 3)": 1.0,
+      "XZ multi (air tick 4)": 1.0,
+      "XZ multi (air tick 5)": 1.0,
+      "XZ multi (air tick 6)": 1.0,
+      "XZ multi (air tick 7)": 1.0,
+      "XZ multi (air tick 8)": 1.0,
+      "XZ multi (air tick 9)": 1.0,
+      "XZ multi (air tick 10)": 1.0,
+      "XZ multi (air tick 11)": 1.0,
+      "XZ multi (air tick 12)": 1.0,
+      "Automatically config air boost": false,
+      "On ground": false,
+      "XZ multi (ground tick 1)": 1.0,
+      "XZ multi (ground tick 2)": 1.0,
+      "XZ multi (ground tick 3)": 1.0,
+      "XZ multi (ground tick 4)": 1.0,
+      "XZ multi (ground tick 5)": 1.0,
+      "Pulldown on air": true,
+      "Pulldown (tick 1)": 0.0,
+      "Pulldown (tick 2)": 0.0,
+      "Pulldown (tick 3)": 0.0,
+      "Pulldown (tick 4)": 0.0,
+      "Pulldown (tick 5)": 0.005,
+      "Pulldown (tick 6)": 0.0,
+      "Pulldown (tick 7)": 0.0,
+      "Pulldown (tick 8)": 0.0,
+      "Pulldown (tick 9)": 0.0,
+      "Pulldown (tick 10)": 0.0,
+      "Pulldown (tick 11)": 0.0,
+      "Pulldown (tick 12)": 0.0,
+      "Automatically config pulldown": false,
+      "Strafe": false,
+      "Strafe (tick 1)": 0.0,
+      "Strafe (tick 2)": 0.0,
+      "Strafe (tick 3)": 0.0,
+      "Strafe (tick 4)": 0.0,
+      "Strafe (tick 5)": 0.0,
+      "Strafe (tick 6)": 0.0,
+      "Strafe (tick 7)": 0.0,
+      "Strafe (tick 8)": 0.0,
+      "Strafe (tick 9)": 0.0,
+      "Strafe (tick 10)": 0.0,
+      "Strafe (tick 11)": 0.0,
+      "Strafe (tick 12)": 0.0,
+      "Auto jump": true,
+      "Jump height": 0.419,
+      "Jumpoff": 0.2,
+      "Timer": 1.0,
+      "Reset": false,
+      "Print air ticks": false
+    }
+  },
+  "MultiActions": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "MurderMystery": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Murderer finder": true,
+      "Announce murderer": false,
+      "Display murderer name on HUD": true,
+      "Detective finder": true,
+      "Display detective name on HUD": true,
+      "Render dropped bow": true,
+      "HUD X": 113.0,
+      "HUD Y": 13.0
+    }
+  },
+  "NameTags": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Modern",
+      "Offset Y": -3.0,
+      "Scale": {
+        "Start": 0.05,
+        "End": 1.0
+      },
+      "Tags health": true,
+      "Tags background": true
+    }
+  },
+  "NoFall": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Clutch",
+      "Fall distance": 4.0,
+      "Max predict ticks": 100.0,
+      "Keep ticks": 5.0
+    }
+  },
+  "NoGuiClose": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Chat Only": true
+    }
+  },
+  "NoHitDelay": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "NoInterpolation": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Only Yaw": false
+    }
+  },
+  "NoRenderOffsetReset": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "NoSlow": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Sword": true,
+      "Sword mode": "Vanilla",
+      "Sword speed": 1.0,
+      "Sword sprint": true,
+      "Consumable": true,
+      "Consumable mode": "Vanilla",
+      "Consumable speed": 1.0,
+      "Consumable sprint": true,
+      "Bow": true,
+      "Bow mode": "Vanilla",
+      "Bow speed": 1.0,
+      "Bow sprint": true,
+      "Sneak": false,
+      "Sneak mode": "Vanilla",
+      "Sneak speed": 0.31
+    }
+  },
+  "NoWeb": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Polar",
+      "Hurt time": 1.0,
+      "XZ motion": 0.62,
+      "XZ ticks": 2.0,
+      "Y motion": 0.89,
+      "Safe jump": false,
+      "Extra down": false
+    }
+  },
+  "Nuker": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Same y": false,
+      "Respect rotation": false,
+      "Sort mode": "Reverse relative hardness",
+      "Instant break": false,
+      "Silent": true,
+      "Angle limiter": "None",
+      "Yaw speed": 33.0,
+      "Pitch speed": 21.0,
+      "Max delta history size": 2.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "Silent",
+      "No S": false
+    }
+  },
+  "Opsec": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Parkour": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Not while shifting": true
+    }
+  },
+  "PathFinder": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Render path": true,
+      "Only render path": true,
+      "Auto disable": false,
+      "Silent": true,
+      "Angle limiter": "None",
+      "Yaw speed": 180.0,
+      "Pitch speed": 180.0,
+      "Max delta history size": 20.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "Silent",
+      "No S": false
+    }
+  },
+  "PerfectHorseJump": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Legit"
+    }
+  },
+  "Phase": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Vanilla"
+    }
+  },
+  "PingSpoof": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Ms": 400.0
+    }
+  },
+  "Plugins": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Radio": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Radio": "Lofi",
+      "Volume": 0.05
+    }
+  },
+  "Reach": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Dynamic": true,
+      "Output multiplier": 0.96,
+      "Range ": 6.0
+    }
+  },
+  "RealLag": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Ping": 197.0
+    }
+  },
+  "Regen": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Vanilla",
+      "Health": 15.0,
+      "Speed": 20.0,
+      "Delay": 1.0
+    }
+  },
+  "ResetVL": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Timer": 1.0
+    }
+  },
+  "SafeWalk": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Held Blocks Check": true,
+      "Pitch Check": true,
+      "Min Pitch": 55.0,
+      "Max Pitch": 75.0
+    }
+  },
+  "Scaffold": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Normal",
+      "Straight telly ticks": 1.0,
+      "Diagonal telly ticks": 0.0,
+      "Instant rotate back": false,
+      "Rotations": "GodBridge",
+      "Rotation base": "Reverse",
+      "Static-ify": true,
+      "Left yaw": 225.0,
+      "Right yaw": 135.0,
+      "Diagonal yaw": 180.0,
+      "Straight pitch": 80.0,
+      "Diagonal pitch": 77.0,
+      "Left jumping yaw": 225.0,
+      "Right jumping yaw": 135.0,
+      "Diagonal jumping yaw": 180.0,
+      "Straight jumping pitch": 75.0,
+      "Diagonal jumping pitch": 75.0,
+      "Clutch": true,
+      "Clutch rotation mode": "Normal",
+      "Instant rot criteria": "",
+      "Silent": true,
+      "Angle limiter": "Linear",
+      "Yaw speed": 70.0,
+      "Pitch speed": 70.0,
+      "Max delta history size": 0.0,
+      "Average yaw limiter mode": "None",
+      "Max average yaw delta": 90.0,
+      "Yaw multiplier on limit ": {
+        "Start": 0.1,
+        "End": 1.0
+      },
+      "Movement correction": "Silent",
+      "No S": false,
+      "Yaw update distance": 0.25,
+      "Pitch update distance": 0.25,
+      "Sprint mode": "Normal",
+      "Speed mode": "None",
+      "Swing": false,
+      "Simulate clicking": true,
+      "CPS": {
+        "Start": 22.0,
+        "End": 24.0
+      },
+      "Randomisation mode": "Jitter",
+      "Allow wrong place": false,
+      "Click on miss": true,
+      "Use place delay": false,
+      "Delay": {
+        "Start": 0.0,
+        "End": 1.0
+      },
+      "Delay in air": {
+        "Start": 0.0,
+        "End": 1.0
+      },
+      "Raytrace mode": "Strict",
+      "Min stack size to place": 2.0,
+      "Ledge mode": "None",
+      "Only sneak on diagonal": false,
+      "Sneak on rotation diff when enabling": true,
+      "Optimise direction": false,
+      "Keep y": false,
+      "Only speed": false,
+      "Target block esp": false,
+      "Shader esp": true,
+      "Jump": false,
+      "Blocks to jump": 7.0,
+      "Only straight": true,
+      "Sneak": false,
+      "Blocks to sneak": 8.0,
+      "Max sneak time": 50.0,
+      "Only sneak on ground": false,
+      "Tower": "Polar",
+      "Pull down moving motion": 0.8,
+      "Pull down tick": 2.0
+    }
+  },
+  "Shaders": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Blur": true,
+      "Blur radius": 5.0,
+      "Shadow": true,
+      "Shadow radius": 17.0,
+      "Bloom": false
+    }
+  },
+  "SimsESP": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "SmartClicking": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Attack range": 3.0,
+      "Search range": 3.5,
+      "Self prediction ticks": 1.0,
+      "Target prediction ticks": 3.0,
+      "Base hurtTime on ping": true,
+      "Valid hurtTime range": {
+        "Start": 2.0,
+        "End": 2.0
+      },
+      "Trade timeout ticks": 5.0,
+      "Mid trade hurtTime range": {
+        "Start": 1.0,
+        "End": 2.0
+      },
+      "Force attack on BackTrack": false,
+      "Counter hit select": false
+    }
+  },
+  "SnapTap": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Sneak": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Legit"
+    }
+  },
+  "Spammer": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "String": "/sell",
+      "Delay": 40.0
+    }
+  },
+  "Speed": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Legit",
+      "Abide friction": true,
+      "Speed": 1.0,
+      "Randomize speed": 0.0,
+      "Motion multiplier": 1.0,
+      "Jump motion": 0.42,
+      "PullDown": false,
+      "PullDown tick": 7.0,
+      "PullDown motion": 1.0,
+      "Timer speed": 1.0,
+      "Timer random": 0.0,
+      "Ground strafe": true,
+      "Ground strength": 1.0,
+      "Air strafe": true,
+      "Air strength": 1.0,
+      "NCP mode": "Fast hop",
+      "Extra speed multiplier": 0.4,
+      "Verus mode": "Low",
+      "Custom gravity": true,
+      "Intave mode": "Fast",
+      "Timer": true,
+      "Boost multiplier": 1.0,
+      "Collide speed": 0.03,
+      "Vulcan mode": "Hop",
+      "Allow air strafing": false,
+      "Ticks": 2.0,
+      "Only Y": true,
+      "Funny": false,
+      "Vape mode": "Anticheat B",
+      "Damage boost": false,
+      "Boost speed": 1.0,
+      "Yaw offset": "Ground",
+      "Min speed limiter": false,
+      "Min speed": 0.35,
+      "Move ticks for limit": 0.0,
+      "Print airTicks": false
+    }
+  },
+  "Sprint": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Omni": false,
+      "Silent": false
+    }
+  },
+  "SprintReset": {
+    "State": true,
+    "Key": 34,
+    "Hidden": false,
+    "Values": {
+      "Reset mode": "WTap",
+      "Re-sprint delay": {
+        "Start": 2.0,
+        "End": 4.0
+      },
+      "Not when hurt": true,
+      "Min target ticks from ground": 0.0
+    }
+  },
+  "Stealer": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Start Delay": 5.0,
+      "Close Delay": 3.0,
+      "Delay": {
+        "Start": 3.0,
+        "End": 4.0
+      },
+      "Index mode": "Random",
+      "Miss-click chance": 0.0,
+      "Allow instant": false,
+      "Cap blocks": true,
+      "Max blocks": 128.0,
+      "Menu Check": true,
+      "Aura": false,
+      "Correction": true,
+      "Check visibility": true
+    }
+  },
+  "Step": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "NCP",
+      "Height": 2.0,
+      "Timer": 0.01,
+      "Delay": 0.0
+    }
+  },
+  "Strafe": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Ground": true,
+      "Ground strength": 1.0,
+      "Air": false,
+      "Air strength": 0.26
+    }
+  },
+  "SyncYaw": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "TPAura": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Single",
+      "Attack delay": 506.0,
+      "Range": 120.0,
+      "Timer": 1.0,
+      "Max targets": 50.0,
+      "Render path": true,
+      "Disable on world change": false,
+      "On click": true
+    }
+  },
+  "TargetIcon": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "OnlyKillAura": false,
+      "RandomIcon": false,
+      "Icon": "Scuba Transparent",
+      "Size": 80.0,
+      "Height": 0.85,
+      "OffsetX": 0.0,
+      "OffsetY": -10.0
+    }
+  },
+  "TargetStrafe": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Range": 0.3,
+      "Behind": false,
+      "Only speed": false
+    }
+  },
+  "Test": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "TestPathFinder": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Max iterations per tick": 500.0,
+      "Max inputs per update": 5.0
+    }
+  },
+  "ThirdPersonDistance": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Distance": 3.0
+    }
+  },
+  "TickBase": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Delay": 0.0,
+      "Tick range": 3.2,
+      "Min range": 3.0,
+      "Stop range": 0.1,
+      "Search range": 15.0,
+      "Max ticks": 5.0,
+      "Prioritise crits": true,
+      "Chat Debug": false
+    }
+  },
+  "Timer": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Basic",
+      "Speed": 5.0,
+      "Max balance": 200.0,
+      "Balance on enable": 40.0
+    }
+  },
+  "TimerRange": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Smart balance": true,
+      "Balance range": 8.0,
+      "Min balance range": 3.5,
+      "Max balance": 4.0,
+      "Reset balance": true,
+      "Delay": 500.0,
+      "Tick range": 3.0,
+      "Min range": 2.8,
+      "Stop range": 0.1,
+      "Max ticks": 2.0,
+      "Legacy skip": false,
+      "Game timer": 5.0,
+      "Allow early break": false,
+      "Prioritise crits": true,
+      "Render predicted self pos": false
+    }
+  },
+  "Trajectories": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Only holding": false,
+      "Max prediction ticks": 100.0
+    }
+  },
+  "Translator": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {}
+  },
+  "Velocity": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Legit",
+      "Intave mode": "Tick Reduce",
+      "Horizontal": 0.0,
+      "Vertical": 100.0,
+      "Direction reduce": false,
+      "Click pattern fill": true,
+      "Max queued clicks": 5.0,
+      "Click addition rate": 40.0,
+      "Single tick attack": false,
+      "HurtTime": {
+        "Start": 5.0,
+        "End": 8.0
+      },
+      "Factor": {
+        "Start": 0.55,
+        "End": 0.6
+      },
+      "Attacks": {
+        "Start": 3.0,
+        "End": 7.0
+      },
+      "Ticks": 0.0,
+      "Motion ground": false,
+      "Freeze time": 50.0,
+      "Max delay ticks": 10.0,
+      "Polar mode": "Reduce"
+    }
+  },
+  "ViaMCPPlus": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Offhand bind": "M",
+      "Attack cooldown": true
+    }
+  },
+  "VisualAimPoint": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Box",
+      "Only silent": true,
+      "Not on miss": false,
+      "Size": 0.07,
+      "Custom Color": false,
+      "Color": {
+        "RGB": -1,
+        "Alpha": 1.0
+      }
+    }
+  },
+  "WallClimb": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Mode": "Vanilla",
+      "Speed": 0.9,
+      "Ticks": 0.0
+    }
+  },
+  "ClientSettings": {
+    "State": false,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Default username": "Karuizawa",
+      "Client username": "Kei Karuizawa",
+      "Notification sounds": true,
+      "Ping update delay (seconds)": 30.0,
+      "Fade speed": 1.0,
+      "Time per index": -74.0,
+      "Color mode": "Karuizawa",
+      "Main Color": {
+        "RGB": -2621448,
+        "Alpha": 1.0
+      },
+      "Secondary Color": {
+        "RGB": -4419329,
+        "Alpha": 1.0
+      },
+      "Background style": "Transparent",
+      "Background color": {
+        "RGB": -65536,
+        "Alpha": 1.0
+      },
+      "Chat combine": true,
+      "Casing mode": "PascalCase",
+      "Chat tabs": false,
+      "Filter": "demise",
+      "Message prefix in tab": ".",
+      "Menu button style": "Custom",
+      "Background mode": "Minecraft",
+      "Full tint": true,
+      "Allowed targets": "Players, Teams, Invisibles, Dead",
+      "funy": false
+    }
+  }
+}
