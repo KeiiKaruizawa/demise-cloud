@@ -471,7 +471,7 @@
       "Rise cape mode": "Normal",
       "Raven cape mode": "White",
       "Minecraft cape mode": "Followers",
-      "Other mode": "Polar",
+      "Other mode": "Karuizawa",
       "Modern cape physics": true,
       "Cape tint": false,
       "Tint color": {
@@ -909,7 +909,7 @@
     "Hidden": false,
     "Values": {
       "Elements": "Watermark, Module list, Armor, Keystrokes, Info, Potion hud, Target hud, Spotify",
-      "Watermark mode": "Modern",
+      "Watermark mode": "Old",
       "Module list mode": "Rise 5",
       "Background": true,
       "Line mode": "Outline",
@@ -1200,11 +1200,11 @@
     }
   },
   "MentalSupport": {
-    "State": false,
+    "State": true,
     "Key": 0,
     "Hidden": false,
     "Values": {
-      "Mode": "2"
+      "Mode": "Karuizawa"
     }
   },
   "MessageEncryptor": {
@@ -1316,6 +1316,14 @@
       },
       "Tags health": true,
       "Tags background": true
+    }
+  },
+  "NickHider": {
+    "State": true,
+    "Key": 0,
+    "Hidden": false,
+    "Values": {
+      "Custom nick": "KeiKaruizawa"
     }
   },
   "NoFall": {
@@ -1933,7 +1941,7 @@
     "Key": 0,
     "Hidden": false,
     "Values": {
-      "Mode": "Polar",
+      "Mode": "Intave",
       "Intave mode": "Tick Reduce",
       "Horizontal": 0.0,
       "Vertical": 100.0,
@@ -1943,12 +1951,12 @@
       "Click addition rate": 40.0,
       "Single tick attack": false,
       "HurtTime": {
-        "Start": 5.0,
-        "End": 8.0
+        "Start": 10.0,
+        "End": 10.0
       },
       "Factor": {
-        "Start": 0.55,
-        "End": 0.6
+        "Start": 1.0,
+        "End": 1.0
       },
       "Attacks": {
         "Start": 3.0,
@@ -2001,13 +2009,13 @@
     "Key": 0,
     "Hidden": false,
     "Values": {
-      "Default username": "Kei Karuizawa",
-      "Client username": "Kei Karuizawa",
+      "Default username": "Kei  Karuizawa",
+      "Client username": "Karuizawa",
       "Notification sounds": true,
       "Ping update delay (seconds)": 30.0,
       "Fade speed": 1.0,
       "Time per index": -74.0,
-      "Color mode": "Tuff",
+      "Color mode": "Karuizawa",
       "Main Color": {
         "RGB": -16777216,
         "Alpha": 1.0
@@ -2022,7 +2030,7 @@
         "Alpha": 1.0
       },
       "Chat combine": true,
-      "Casing mode": "lowercase",
+      "Casing mode": "PascalCase",
       "Chat tabs": false,
       "Filter": "demise",
       "Message prefix in tab": ".",
