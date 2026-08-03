@@ -606,8 +606,8 @@
     "Hidden": false,
     "Values": {
       "Slim": true,
-      "Custom URL": true,
-      "Skin": "larryngton",
+      "Custom URL": false,
+      "Skin": "Karuizawa",
       "URL": "https://www.minecraftskins.com/uploads/skins/2023/11/20/itsuki-nakano-22126544.png?v961"
     }
   },
@@ -1700,7 +1700,7 @@
     "Key": 6,
     "Hidden": false,
     "Values": {
-      "Mode": "Polar",
+      "Mode": "Intave",
       "Abide friction": true,
       "Speed": 1.0,
       "Randomize speed": 0.0,
@@ -1718,7 +1718,7 @@
       "NCP mode": "Fast hop",
       "Extra speed multiplier": 0.4,
       "Verus mode": "Low",
-      "Custom gravity": true,
+      "Custom gravity": false,
       "Intave mode": "Fast",
       "Timer": true,
       "Boost multiplier": 1.0,
