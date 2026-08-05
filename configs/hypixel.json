@@ -1626,7 +1626,7 @@
       "Blocks to sneak": 8.0,
       "Max sneak time": 50.0,
       "Only sneak on ground": false,
-      "Tower": "Polar",
+      "Tower": "Hypixel",
       "Pull down moving motion": 0.8,
       "Pull down tick": 2.0
     }
